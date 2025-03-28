@@ -1,1 +1,1 @@
-# Medical image captioning and speech generation by English and Amharic verion for visullay impaired people
+# Medical image captioning and speech generation by English and Amharic version for visullay impaired people
