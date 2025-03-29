@@ -36,3 +36,11 @@ By combining state-of-the-art generative AI models and user-centric design, this
    
 A streamlined, interactive deployment via Streamlit for demonstration and future integration.
 We are excited to lead the way in AI-powered healthcare solutions!
+
+![image](https://github.com/user-attachments/assets/6c55377a-0556-4605-9841-b550f37547db)
+
+![image](https://github.com/user-attachments/assets/a2dca0b5-8a62-489a-8265-62f989a517a9)
+
+![image](https://github.com/user-attachments/assets/bd817452-b7ce-403b-9f8d-c75f52dcd270)
+
+![image](https://github.com/user-attachments/assets/9990e587-2b93-4193-8449-7400ebe0daa0)
