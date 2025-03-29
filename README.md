@@ -43,4 +43,5 @@ We are excited to lead the way in AI-powered healthcare solutions!
 
 ![image](https://github.com/user-attachments/assets/bd817452-b7ce-403b-9f8d-c75f52dcd270)
 
-![image](https://github.com/user-attachments/assets/9990e587-2b93-4193-8449-7400ebe0daa0)
+![image](https://github.com/user-attachments/assets/eafa62f1-b53f-4090-a4e5-ab0af0c0d223)
+
